@@ -7,6 +7,6 @@ Usage
 =================
 Create a data.csv file locate in the same dictionary with your exe.
 
-File formate
+File formate (see example.csv)
 =================
-Account,Password,Indentify(Name,Number,etc...)
+Indentify(Name,Number,etc...),Account,Password
